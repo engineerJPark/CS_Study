@@ -18,6 +18,8 @@ def Karatsuba(num1, num2):
 
 print(Karatsuba(ex1, ex2))
 
+## 아래 정상 작동과 boundary condition을 비교하라.
+
 # ex1 = 1234
 # ex2 = 5678
 
