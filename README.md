@@ -8,8 +8,8 @@ I don't want to be ignored because I am a non-major developer, so I study CS cou
 
 The Lists that I need to Study
 
-1. Algorithm and Data Structure
-2. Operation System
+1. [Algorithm and Data Structure](https://github.com/engineerJPark/Algorithm_CS_Study)
+2. [Operation System](https://github.com/engineerJPark/Operation_System_CS_Study)
 3. System Programming
 4. Logical Circuit Design
 5. Computer Architecture
