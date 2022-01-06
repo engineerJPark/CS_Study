@@ -16,6 +16,7 @@ The Lists that I need to Study
 6. Computer Network
 7. Database
 8. Distributed Processing
+9. Software Engineering
 
 Also there is Programming Languages that I need to learn for work
 
