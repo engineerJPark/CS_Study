@@ -18,7 +18,7 @@ The Lists that I need to Study
 8. Distributed Processing
 9. Software Engineering
 10. Signal Processing
-11. 
+11. Image Processing
 
 Also there is Programming Languages that I need to learn for work
 
