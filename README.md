@@ -2,7 +2,7 @@
 
 Notes and HW files for Computer Science lectures that I studied alone.
 
-I am Mechanical Engineering Student in Korea University, 
+I am Mechanical Engineering Student in Korea University, and I REALLY HATE MECHANICAL ENGINEERING.
 
 I don't want to be ignored because I am a non-major developer, so I study CS courses and post the contents here.
 
